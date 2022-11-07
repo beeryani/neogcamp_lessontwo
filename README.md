@@ -22,3 +22,9 @@ Added `index.html`.
 
 Commit made!
 Update: Improve commit message as per project documentation.
+
+## ex05: understanding commit messages
+Done!
+
+## ex06: publish to github
+Done!
