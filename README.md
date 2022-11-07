@@ -21,3 +21,4 @@ Added `index.html`.
 ## ex04: commit your first changes
 
 Commit made!
+Update: Improve commit message as per project documentation.
