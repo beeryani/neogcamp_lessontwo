@@ -1,6 +1,6 @@
 # [neoGcamp: LessonTwo]('https://neog.camp/guide/lessonTwo')
 
-> **_Description_**  Repository for LessonTwo of levelZero of neoGcamp
+> Repository for LessonTwo of levelZero of neoGcamp
 
 ## PART ONE: SETTING UP GIT and GITHUB
 
